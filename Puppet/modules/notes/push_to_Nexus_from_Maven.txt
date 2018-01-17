@@ -1,0 +1,13 @@
+- Artifact repo config in pom.xml
+<distributionManagement>
+  <repository>
+    <id>internal</id>
+	<name>Internal Releases</name>
+	<url>http://local...</url>
+  </repository>
+  <snapshotRepository>
+    <id>internal</id>
+	<name>Internal Releases</name>
+	<url>http..</url>
+  </snapshotRepository>
+<distributionManagement>

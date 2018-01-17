@@ -1,0 +1,2 @@
+- maven-deploy-plugin
+to add the artifact to remote repository.
